@@ -1,6 +1,6 @@
 # Generic Kernel Image
 
-**GKI**  -  hardware-agnostic core kernel.
+**GKI**  -  hardware-agnostic core kernel. aka General Kernel Image
 **System-on-Chip (SOC)**  -  hardware-specific modules.
 **ACK**  -  
 
