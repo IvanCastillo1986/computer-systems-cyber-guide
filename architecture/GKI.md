@@ -1,3 +1,5 @@
+[Home](/README.md)
+
 # Generic Kernel Image
 
 **GKI**  -  hardware-agnostic core kernel. aka General Kernel Image

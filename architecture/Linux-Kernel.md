@@ -1,5 +1,6 @@
-# Linux Kernel
 [Home](../README.md)
+
+# Linux Kernel
 
 # Linux Kernel Basics
 

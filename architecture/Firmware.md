@@ -1,3 +1,5 @@
+[Home](/README.md)
+
 # Firmware
 Generally written in low-level languages that allow direct interaction with hardware.
 The most common languages for firmware development are C, C++, and Assembly.

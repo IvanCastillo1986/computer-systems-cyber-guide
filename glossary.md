@@ -1,4 +1,6 @@
-# Vocabulary
+[Home](/README.md)
+
+# Glossary
 
 ## flash memory
 * a type of of non-volatile computer memory (unlike RAM which loses data when power is removed) that can be erased and reprogrammed with electrical signals. This means it retains data even when the power is turned off, making it ideal for permanent or long-term storage in a wide range of devices. It typically erases data in blocks rather than individual bytes, and has a finite number of write/erase cycles until it wears out. It's solid-state, since it has no moving parts (unlike HDDs), making it more durable, quiet, and resistant to shock/vibrations. <br>

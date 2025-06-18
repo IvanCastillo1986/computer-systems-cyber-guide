@@ -5,4 +5,25 @@ The purpose of this guide is to give other professionals TLDR insight into Andro
 
 
 # Documentation
+
+## Architecture
 [Linux Kernel](/architecture/Linux-Kernel.md)<br>
+[Firmware](/architecture/Firmware.md)<br>
+[GKI](/architecture/GKI.md)<br>
+[Android Kernel](/architecture/Android-Kernel.md)<br>
+[ACK](/architecture/ACK.md)<br>
+
+## Components
+[CPU](/components/CPU.md)<br>
+[Memory](/components/Memory.md)<br>
+
+## Protocols
+[SPI](/protocols/SPI.md)<br>
+[RCS](/protocols/RCS.md)<br>
+
+## Processes
+[Path of data](/processes/Path-of-data.md)
+[Android Boot-up](/processes/Android-boot-up.md)
+
+## Vulnerabilities
+[Malware](/vulnerabilities/Malware.md.md)
