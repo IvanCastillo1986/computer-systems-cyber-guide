@@ -8,7 +8,6 @@ As soon as power is removed, RAM loses all memory, as opposed to a HDD which per
 
 ## Random Access Memory (RAM)
 "Random Access" means that the CPU can access any location in memory. 
-<!-- ToDo: continue here -->
 
 * volatile - loses data when power off
 * read/write - CPU can both read from and write data to any location in RAM
@@ -33,7 +32,7 @@ As soon as power is removed, RAM loses all memory, as opposed to a HDD which per
 ## Cache Memory
 * volatile  -  loses memory when power off (like RAM)
 * much faster than RAM
-* small, high-speed memory unit lcated very close to or within CPU. Stores frequently used data and instructions from main memory to reduce time that CPU waits for data, improving system and performance.
+* small, high-speed memory unit located very close to or within CPU. Stores frequently used data and instructions from main memory to reduce time that CPU waits for data, improving system and performance.
 * organized in levels (L1, L2, L3 cache)
     * L1 is fastest/smallest
     * L3 is slowest/largest
@@ -43,6 +42,7 @@ As soon as power is removed, RAM loses all memory, as opposed to a HDD which per
 * it’s a memory management technique that uses portion of secondary storage (HDD, SDD) as temporary extension of RAM when physical RAM is full and not available.
 * it prevents crashes (like a last resort backup) from insufficient memory. If this weren’t available, it would task the system into crashing. 
 
+<hr>
 
 # Secondary Memory
 aka External memory or Auxiliary storage

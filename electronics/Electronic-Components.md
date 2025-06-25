@@ -43,6 +43,8 @@ They can be used for:<br>
 * smoothing voltage
 * timing
 
+Dielectric - an insulating material placed between capacitor plates. It's crucial for increasing capacitance, enhancing breakdown voltage, and proper plate separation.
+
 ## Inductor
 This component stores energy in a magnetic field when current flow through it.<br>
 They are used in:<br>

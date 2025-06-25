@@ -1,3 +1,5 @@
+[Home](/README.md)
+
 # Dynamic Random Access Memory (DRAM)
 
 ## What does it look like?

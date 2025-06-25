@@ -3,20 +3,16 @@
 # CPU
 aka **Central Processing Unit**
 
-Before we dive into the Android CPU, let's talk about what **chips** are.
+A computer system is much like a human body. It has many systems, each in charge of performing different tasks. The digestive system absorbs nutrients from the food. It also works together with the excretory system to remove waste. But they would not be able to function without the nervous system.
 
-# Chips
-aka **Integrated Circuits (ICs)**
+Much like the Central Nervous System to the body, the CPU is like the nervous system of a computer. Likewise, it sends the signals to trigger different components (organs) of the computer system (body) to perform various tasks. 
 
-Chips are essentially a way of modularizing circuits. That is, delegating just one segment of your full computer's circuits to accomplish a task. 
+## Core
+This is the fundamental processing unit of a CPU. Most modern CPUs usually contain a few of these [IC chips](/reference.md#chips). You can think of this as the brain of the nervous system. Although these days, CPUs (nervous systems) commonly have 8 cores (brains).
 
-Examples of chips accomplishing different tasks are:<br>
-**Microprocessor chip** performs calculations and controls.
-**Memory chip** stores data.
-**Amplifier chip** boosts signal strength.
-**Voltage Regulator chip** provides a stable power supply. 
+### Fetch-Decode-Execute-Writeback (FDEW) cycle
+aka Instruction Cycle
 
-Each of the listed chips encapsulates a complex circuit into a single, manageable component. If an issue is diagnosed (the computer turns off unexpectedly), a technician might think to look into troubleshooting near the chip that handles that task (the Voltage Regulator chip).
-
-Old circuits were built using discrete components (large, standalone pieces like a diode or transistor) that had to be wired together manually. The **Integrated Circuit** solved this issue in the 1950's, revolutionizing electronics. Now, circuits that perform specific tasks would not need to be made from scratch. Instead engineers were able to select pre-made circuits and connect them together, like Lego blocks, which reduced complexity and cost. This modularity also allowed for abstraction in larger systems.
-
+Each core is continuously executing the FDEW cycle at extremely fast speeds, repeating billions of times per second.
+1. Fetch
+    * the **Program Counter** is a crucial [**register**](./Types-of-storage.md#register) within the CPU. 

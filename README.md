@@ -1,7 +1,7 @@
-# Android 
-Welcome! I'm a Cyber Security professional currently self-teaching himself about Android devices, including the operating system, it's hardware, and everything in between.
+# Computer Systems
+Welcome! I'm a Cyber Security professional currently self-teaching himself about computer systems, including the operating system, it's hardware, and everything in between.
 
-The purpose of this guide is to give other professionals TLDR insight into Android devices and their Cyber Security posture.
+The purpose of this guide is to give other professionals a TLDR deep dive into computer systems and their Cyber Security posture.
 
 
 # Documentation
@@ -10,8 +10,6 @@ The purpose of this guide is to give other professionals TLDR insight into Andro
 [Linux Kernel](/architecture/Linux-Kernel.md)<br>
 [Firmware](/architecture/Firmware.md)<br>
 [GKI](/architecture/GKI.md)<br>
-[Android Kernel](/architecture/Android-Kernel.md)<br>
-[ACK](/architecture/ACK.md)<br>
 
 ## Components
 [CPU](/components/CPU.md)<br>
@@ -23,7 +21,6 @@ The purpose of this guide is to give other professionals TLDR insight into Andro
 
 ## Processes
 [Path of data](/processes/Path-of-data.md)
-[Android Boot-up](/processes/Android-boot-up.md)
 
 ## Vulnerabilities
 [Malware](/vulnerabilities/Malware.md.md)
