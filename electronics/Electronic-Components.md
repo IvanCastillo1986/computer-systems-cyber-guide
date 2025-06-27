@@ -1,6 +1,9 @@
 # Electronic Components
 This page attempts to cover the common elements of a computer's circuit board.
 
+## Printed Circuit Board
+aka PCB
+
 ## Power Source
 This provides the electrical energy that drives electrons.<br>
 Examples:<br>
@@ -46,7 +49,7 @@ They can be used for:<br>
 Dielectric - an insulating material placed between capacitor plates. It's crucial for increasing capacitance, enhancing breakdown voltage, and proper plate separation.
 
 ## Inductor
-This component stores energy in a magnetic field when current flow through it.<br>
+This component stores energy in a magnetic field when current flows through it.<br>
 They are used in:<br>
 * filters
 * power supplies

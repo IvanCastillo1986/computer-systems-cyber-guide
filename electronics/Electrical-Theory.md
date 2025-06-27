@@ -1,5 +1,5 @@
 # Electrical Theory
-This page is a short and basic primer to electrical theory. I included it with the expectation that some readers might benefit from knowledge of a lower level of abstraction before they learn about chips, PCBs, etc. Electrical theory shuold come in handy for understanding how many of the computer's elements function.<br>
+This page is a short and basic primer to electrical theory. I included it with the expectation that some readers might benefit from knowledge of a lower level of abstraction before they learn about chips, PCBs, etc. Electrical theory should come in handy for understanding how many of the computer's elements function.<br>
 
 An atom is the basic building block of matter. It's comprised of a nucleus containing **protons** (positive charge) and **neutrons** (neutrally charged), with **electrons** (negatively charged) orbiting around it in layers known as shells.<br>
 

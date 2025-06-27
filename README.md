@@ -1,5 +1,5 @@
 # Computer Systems
-Welcome! I'm a Cyber Security professional currently self-teaching himself about computer systems, including the operating system, it's hardware, and everything in between.
+weWelcome! I'm a Cyber Security professional currently self-teaching himself about computer systems, including the operating system, it's hardware, and everything in between.
 
 The purpose of this guide is to give other professionals a TLDR deep dive into computer systems and their Cyber Security posture.
 
@@ -13,7 +13,7 @@ The purpose of this guide is to give other professionals a TLDR deep dive into c
 
 ## Components
 [CPU](/components/CPU.md)<br>
-[Memory](/components/Memory.md)<br>
+[DRAM](/components/DRAM.md)<br>
 
 ## Protocols
 [SPI](/protocols/SPI.md)<br>
